@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+.slider{
+  position: absolute;
+  width: 600px;
+  height: 370px;
+  margin: 50px 50px;
+  overflow: hidden;
+  border: 5px solid black;
+}
+
+.container {
+  cursor: pointer;
+  position: absolute;
+  width:3500px;
+  left:0px;
+  
+ 
+  
+}
+.img1{ 
+  margin: -4px -4px;
+  width: 600px;
+}
+
+
